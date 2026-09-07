@@ -2,17 +2,15 @@
 
 Bilingual academic portfolio with a responsive layout and animated regulatory network.
 
-## Visibility
+Website: https://xiangcheng66.github.io/
 
-This repository is private. GitHub Pages is intentionally not enabled. No deployment workflow is installed.
+## Publication
+
+This repository is public. GitHub Pages publishes the website, including the downloadable CV. Changes pushed to `main` are built and deployed automatically. The Pages workflow can also be run manually from GitHub Actions.
 
 ## Local development
 
 Use Node.js 22.17 or later. Run `npm ci`, then `npm run dev`. Run `npm run build` to generate the static website in `dist/`.
-
-## Future publication
-
-When ready to publish, review the content and CV first, then explicitly enable GitHub Pages and configure deployment of `dist/`. A private repository alone does not guarantee a private Pages website.
 
 ## Content
 
